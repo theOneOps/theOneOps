@@ -24,7 +24,7 @@
 
 <table style="margin-left: auto; margin-right: auto; display: block;">
   <tr>
-    <th>Domain</th>
+    <th>Domains</th>
     <th>Technologies</th>
   </tr>
   <tr>
