@@ -12,9 +12,9 @@
 
 <div style="width:400px; height:400px; display:flex; align-items:center; justify-content:center; flex-direction: column;">
   <div style="text-align: center;">
-    <p>👀 I’m interested in Web, software development, and machine learning</p>
-    <p>🌱 I’m currently learning React, and Typescript and more in my Computer Engineering program</p>
-    <p>💞️ Contact me for any kind of projects you would want me to work in with you</p>
+    <p>👀 I’m interested in Web, software development, and machine learning </p>
+    <p>🌱 I’m currently learning GraphQL, some advanced notions on React in my part time, and more general stuff in my Computer Engineering program </p>
+    <p>💞️ Contact me for any kind of projects you would want me to work in with you </p>
   </div>
 </div>
 
@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
