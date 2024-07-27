@@ -1,6 +1,5 @@
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="width:100px;">
-  <h1><strong>Welcome to my page</strong></h1>
+  <h1><strong>Hi ! </strong><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="height:40px; line-height:40px;"><strong> Welcome to my page</strong></h1>
 </div>
 
 
