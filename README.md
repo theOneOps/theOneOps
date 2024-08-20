@@ -12,7 +12,7 @@
 <div style="width:400px; height:400px; display:flex; align-items:center; justify-content:center; flex-direction: column;">
   <div style="text-align: center;">
     <p>👀 I’m interested in Web, software development, and machine learning </p>
-    <p>🌱 I’m currently learning GraphQL, some advanced notions on React in my part time, and more general stuff in my Computer Engineering program </p>
+    <p>🌱 I’m currently learning GraphQL, and nextJS, with some advanced notions on React in my part time, and more general stuff in my Computer Engineering program </p>
     <p>💞️ Contact me for any kind of projects you would want me to work in with you </p>
   </div>
 </div>
