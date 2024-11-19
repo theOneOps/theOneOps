@@ -15,7 +15,7 @@
   👀 <div align="center">
   <!-- Typing effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=aptos+Code&pause=500&color=FFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Computer+Engineering+Student;Always+Learning+New+Things;Mostly+Interested+in+AI+and+systems+design" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=aptos+Code&pause=500&color=FFF&center=true&vCenter=true&width=700&lines=I'm+a++Full+Stack+Developer;And+a+Computer+Engineering+Student;Always+Learning+New+Things+in+my+part+time;Mostly+Interested+in+AI+and+systems+design" alt="Typing SVG" />
   </a>
 </div>
   
@@ -29,7 +29,7 @@
   <p><img src="https://img.shields.io/badge/GraphQL-Progress-brightgreen?style=flat-square&logo=graphql&logoColor=white&labelColor=black&color=E10098" />
   <img src="https://progress-bar.xyz/75?title=GraphQL&width=200&color=E10098" align:right/></p>
   
-  <h3>🌱 Also pursuing my Computer Engineering program At polytech's tours !</h3>
+  <h3><span>🌱 Also pursuing my Computer Engineering program</span> <img align:center src="https://img.shields.io/badge/At_polytech's_tours!-DAA520?style=for-the-badge"/></h3>
   
   <h3>💞️  Open to exciting projects and collaborations - Let's build something amazing together! </h3>
   <br/>
