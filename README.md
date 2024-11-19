@@ -1,5 +1,5 @@
-<div>
-  <h1><strong>Hi ! </strong><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="height:40px; line-height:40px;"><strong> Welcome to my page</strong></h1>
+<div align="center">
+  <h1><strong>Hi Dear ! <strong> Welcome to my page</strong></h1>
 </div>
 
 
@@ -7,19 +7,41 @@
 
 
 
-<h1 align="left"> I’m @TheOneOps!</h1>
+<h1 align="center"> I’m @TheOneOps!</h1>
 
-<div style="width:400px; height:400px; display:flex; align-items:center; justify-content:center; flex-direction: column;">
-  <div style="text-align: center;">
-    <p>👀 I’m interested in Web, software development, and machine learning </p>
-    <p>🌱 I’m currently learning GraphQL, and nextJS, with some advanced notions on React in my part time, and more general stuff in my Computer Engineering program </p>
-    <p>💞️ Contact me for any kind of projects you would want me to work in with you </p>
-  </div>
+<div align="center">
+  <h3><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" style="height:20px; line-height:20px;"> About Me</h3>
+  
+  👀 <div align="center">
+  <!-- Typing effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=aptos+Code&pause=500&color=FFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Computer+Engineering+Student;Always+Learning+New+Things;Mostly+Interested+in+AI+and+systems+design" alt="Typing SVG" />
+  </a>
+</div>
+  
+  <h3 align="center">📚 Currently Learning</h3>
+  <p><img src="https://img.shields.io/badge/React-Progress-brightgreen?style=flat-square&logo=react&logoColor=white&labelColor=black&color=61DAFB" />
+  <img src="https://progress-bar.xyz/85?title=React&width=200&color=61DAFB"align:right/></p>
+
+  <p><img src="https://img.shields.io/badge/Next.js-Progress-brightgreen?style=flat-square&logo=next.js&logoColor=white&labelColor=black&color=000000" />
+  <img src="https://progress-bar.xyz/60?title=Next.js&width=200&color=000000" align:right/></p>
+  
+  <p><img src="https://img.shields.io/badge/GraphQL-Progress-brightgreen?style=flat-square&logo=graphql&logoColor=white&labelColor=black&color=E10098" />
+  <img src="https://progress-bar.xyz/75?title=GraphQL&width=200&color=E10098" align:right/></p>
+  
+  <h3>🌱 Also pursuing my Computer Engineering program At polytech's tours !</h3>
+  
+  <h3>💞️  Open to exciting projects and collaborations - Let's build something amazing together! </h3>
+  <br/>
+  
+  <a href="mailto:medewoubillgate@yahoo.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  </a>
 </div>
 
 ---
 
-<h2>💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <table style="margin-left: auto; margin-right: auto; display: block;">
   <tr>
@@ -76,7 +98,8 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 
+<h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theoneOps&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false" />
   &nbsp;&nbsp;&nbsp;
@@ -85,6 +108,16 @@
 
 
 ---
+
+<!--
+## 🚀 Featured Projects
+<a href="https://github.com/theoneOps/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneOps&repo=project1&theme=graywhite" />
+</a>
+<a href="https://github.com/theoneOps/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theoneOps&repo=project2&theme=graywhite" />
+</a>
+-->
 
 ## 😄 Fun Corner
 Need a break? Enjoy a random joke to lighten your day!
