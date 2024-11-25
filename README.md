@@ -20,14 +20,14 @@
 </div>
   
   <h3 align="center">📚 Currently Learning</h3>
-  <p><img src="https://img.shields.io/badge/React-Progress-brightgreen?style=flat-square&logo=react&logoColor=white&labelColor=black&color=61DAFB" />
-  <img src="https://progress-bar.xyz/65?title=React&width=200&color=61DAFB"align:right/></p>
+  <p><img src="https://img.shields.io/badge/React-Progress-brightgreen?style=flat-square&logo=react&logoColor=white&labelColor=black&color=000000" />
+  <img src="https://progress-bar.xyz/65?title=React&width=200&color=000000"align:right/></p>
 
   <p><img src="https://img.shields.io/badge/Next.js-Progress-brightgreen?style=flat-square&logo=next.js&logoColor=white&labelColor=black&color=000000" />
   <img src="https://progress-bar.xyz/55?title=Next.js&width=200&color=000000" align:right/></p>
   
-  <p><img src="[https://img.shields.io/badge/GraphQL-Progress-brightgreen?style=flat-square&logo=graphql&logoColor=white&labelColor=black&color=E10098](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)" />
-  <img src="https://progress-bar.xyz/30?title=NestJS&width=200&color=E10098" align:right/></p>
+  <p><img src="https://img.shields.io/badge/nestjs-333?style=flat-square&logo=nestjs&logoColor=white&labelColor=black&color=000000" />
+  <img src="https://progress-bar.xyz/35?title=NestJS&width=200&color=000000" align:right/></p>
   
   <h3><span>🌱 Also pursuing my Computer Engineering program</span> <img align:center src="https://img.shields.io/badge/At_polytech's_tours!-DAA520?style=for-the-badge"/></h3>
   
