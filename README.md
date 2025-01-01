@@ -99,6 +99,7 @@
     <td><strong>Development's tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter">
     </td>
   </tr>
 
