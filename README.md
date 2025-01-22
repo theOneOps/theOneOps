@@ -21,10 +21,10 @@
   
   <h3 align="center">📚 Currently Learning</h3>
   <p><img src="https://img.shields.io/badge/React-Progress-brightgreen?style=flat-square&logo=react&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/65?title=React&width=200&color=000000"align:right/></p>
+  <img src="https://progress-bar.xyz/100?title=React&width=200&color=000000"align:right/></p>
 
   <p><img src="https://img.shields.io/badge/Next.js-Progress-brightgreen?style=flat-square&logo=next.js&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/55?title=Next.js&width=200&color=000000" align:right/></p>
+  <img src="https://progress-bar.xyz/75?title=Next.js&width=200&color=000000" align:right/></p>
   
   <p><img src="https://img.shields.io/badge/nestjs-333?style=flat-square&logo=nestjs&logoColor=white&labelColor=black&color=000000" />
   <img src="https://progress-bar.xyz/35?title=NestJS&width=200&color=000000" align:right/></p>
