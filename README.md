@@ -112,7 +112,7 @@
 ## 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoneOps&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theoneOps&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoneOps&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </div>
