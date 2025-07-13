@@ -110,12 +110,12 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theoneOps&theme=tokyonight&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoneOps&theme=tokyonight&layout=compact" />
-</p>
+<h2 align="center">📊 GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theoneOps&theme=tokyonight&layout=compact&hide_border=false&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoneOps&theme=tokyonight&layout=compact&hide_border=false&include_all_commits=true&count_private=true&langs_count=10" />
+</div>
 
 
 ---
