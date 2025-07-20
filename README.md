@@ -27,7 +27,7 @@
   <img src="https://progress-bar.xyz/75?title=Next.js&width=200&color=000000" align:right/></p>
   
   <p><img src="https://img.shields.io/badge/nestjs-333?style=flat-square&logo=nestjs&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/35?title=NestJS&width=200&color=000000" align:right/></p>
+  <img src="https://progress-bar.xyz/65?title=NestJS&width=200&color=000000" align:right/></p>
   
   <h3><span>🌱 Also pursuing my Computer Engineering program</span> <img align:center src="https://img.shields.io/badge/At_polytech's_tours!-DAA520?style=for-the-badge"/></h3>
   
