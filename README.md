@@ -20,14 +20,10 @@
 </div>
   
   <h3 align="center">📚 Currently Learning</h3>
-  <!--<p><img src="https://img.shields.io/badge/React-Progress-brightgreen?style=flat-square&logo=react&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/100?title=React&width=200&color=000000"align:right/></p> -->
 
-  <p><img src="https://img.shields.io/badge/Next.js-Progress-brightgreen?style=flat-square&logo=next.js&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/75?title=Next.js&width=200&color=000000" align:right/></p>
+  <p><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   
-  <p><img src="https://img.shields.io/badge/nestjs-Progress-brightgreen?style=flat-square&logo=nestjs&logoColor=white&labelColor=black&color=000000" />
-  <img src="https://progress-bar.xyz/65?title=NestJS&width=200&color=000000" align:right/></p>
+  <p><img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" />
   
   <h3><span>🌱 Also pursuing my Computer Engineering program</span> <img align:center src="https://img.shields.io/badge/At_polytech's_tours!-DAA520?style=for-the-badge"/></h3>
   
@@ -88,7 +84,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Design sofware</strong></td>
+    <td><strong>Design software</strong></td>
     <td>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
